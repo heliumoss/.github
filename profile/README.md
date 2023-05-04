@@ -1,6 +1,6 @@
 ![ktty header](https://cdn.bone.lol/images/ktty/ktty-github-header.png)
 
-# Welcome to the ktty Organization
+# This is ktty
 
 We are a software development company dedicated to making great tools for developers and end users alike. Our products include Akira, Whisker, and Kanvas, all designed to make your digital experiences smoother and more enjoyable.
 
