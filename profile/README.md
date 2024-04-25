@@ -1,8 +1,6 @@
-![ktty header](https://cdn.bone.lol/images/ktty/ktty-github-header.png)
+# This is Helium
 
-# This is ktty
-
-We are a software development group dedicated to making great tools for developers and end users alike.
+We are a software & service company making great tools for developers and end users alike.
 
 ## Our Products
 
@@ -14,5 +12,5 @@ Akira is a powerful image optimization and resizing tool that can be used by any
 
 We're always looking for ways to improve our products and provide better support for our users. If you have any questions or feedback, please don't hesitate to get in touch with us:
 
--   Website: [https://ktty.link](https://ktty.link)
--   Email: [support@ktty.link](mailto:support@ktty.link)
+-   Website: [https://helium.ws](https://helium.ws)
+-   Email: [support@helium.ws](mailto:support@helium.ws)
